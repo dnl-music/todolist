@@ -1,0 +1,8 @@
+{
+    "name": "ya/todolist",
+    "type": "project",
+    "require": {
+        "spatie/data-transfer-object": "^3.7",
+      "ext-pdo": "*"
+    }
+}
